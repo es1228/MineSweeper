@@ -18,5 +18,8 @@ The goal of the game is to clear a rectangular board containing hidden "mines" w
 * Win/Loss logic with game reset.
 * Records feature to view past scores.
 
-## Screenshots
+## ℹ️ Icons
+* Icons are made my me and can be found in the GameImages folder. Feel free to borrow any for your own personal projects if need be.
+
+## 📷 Screenshots
 <img width="962" height="842" alt="image" src="https://github.com/user-attachments/assets/15db465c-b56b-4528-8055-f1eea51663e0" />
