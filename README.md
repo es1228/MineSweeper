@@ -13,7 +13,7 @@ The goal of the game is to clear a rectangular board containing hidden "mines" w
 ## 🚀 Features
 * Classic grid-based gameplay.
 * Custom difficulty levels (Easy, Medium, Hard).
-* Anti-Mines feature for a new twist
+* Anti-Mines feature for a fun twist.
 * Flagging system to track mines.
 * Win/Loss logic with game reset.
 * Records feature to view past scores.
